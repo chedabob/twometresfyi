@@ -12,7 +12,9 @@ const conversions = [
     "4 Chairs",
     "1.22 Sturgeons (the politician)",
     "10 Sturgeons (the fish)",
-    "0.00000000000000000000000022731200731712534% of the observable universe's diameter"
+    "0.00000000000000000000000022731200731712534% of the observable universe's diameter",
+    "13.12336 Greggs sausage rolls",
+    "1.17523 Smoots"
 ]
 
 var randomVal = function (obj) {
