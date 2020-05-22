@@ -17,7 +17,9 @@ const conversions = [
     "1.17523 Smoots",
     "0.82021 Standard 8ft ISO Shipping containers",
     "0.0126429287 Blackpool towers",
-    "6.8728522337 sheets of A4 paper"
+    "6.8728522337 sheets of A4 paper",
+		"86 KitKat fingers",
+		"6.481x10^-17 parsecs"
 ]
 
 var randomVal = function (obj) {
