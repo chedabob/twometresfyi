@@ -65,6 +65,7 @@
   
   #BigText {
     font-size: 24pt;
+     word-wrap: anywhere;
   }
   
   #LittleText {
